@@ -1,0 +1,1 @@
+This repo is for various presentations that I have given. Most of these were done at CryptoParties that I have hosted but a handful are from Security Conferences that I have presented at, including Security B-Sides Memphis and DFW.
